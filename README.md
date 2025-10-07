@@ -5,6 +5,9 @@
 ### 1. Domain registration on AWS Route 53
 - **Signed into AWS Route 53 (Set up a new account if first time)**
 - **Searched for available domains** '(yusufwaleed.co.uk)'
+
+<img width="452" height="166" alt="Image" src="https://github.com/user-attachments/assets/b56431e2-198c-4a47-b143-d7d52e3ea11b" />
+
 - **Purchase and successfully registered the domain**
 
 ### 2. Set up EC2 instance
@@ -22,11 +25,16 @@
     - **Record type:** 'A'
     - **Value:** 'EC2 instance IP address'
     - **TTL:** '300s'
+
+<img width="199" height="176" alt="Image" src="https://github.com/user-attachments/assets/51e033ea-c480-4014-964e-f15aa36f598c" />
+
 - **Saved this**
 
 ### 4. Checking the domain
 - **Tested domain** 'by navigating to nginx.yusufwaleed.co.uk'
 - **Confirmed Nginx default page was showing correctly**
+
+<img width="263" height="124" alt="Image" src="https://github.com/user-attachments/assets/557bd2fc-bf49-4b3c-bbb5-7f0e7dfd0993" />
 
 ### 5. Nginx Customisation
 - **Accessed Nginx configuration file** '(From EC2 instance)
