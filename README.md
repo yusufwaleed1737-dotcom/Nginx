@@ -41,6 +41,8 @@
 - **Used Vi editor to modify the look**
 - **Saved changes and headed back to domain to confirm it looks as it should**
 
+https://github.com/user-attachments/assets/0a5f0a39-fdf7-4311-99c1-8a069fbfac64
+
 ## Results:
 Successfully purchased a custom domain from Route 53 and pointed this to an EC2 instance which was running Nginx, and personalised the content
 
